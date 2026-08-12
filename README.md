@@ -182,7 +182,7 @@ A business and organization management platform with role-based access and dedic
 
 I'm always interested in learning, collaborating, and connecting with other developers.
 
-* 💼 **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/michael1342)
+* 💼 **GitHub:** [@me](https://github.com/michael1342)
 * 📧 **Email:** michaelanazodo2024@gmail.com
 
 ---
