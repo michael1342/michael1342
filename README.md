@@ -280,9 +280,23 @@ A project focused on building a blog application.
 
 I'm always interested in learning, collaborating, and connecting with other developers.
 
-- 💼 **GitHub:** [@michael](https://github.com/michael1342)
-- 📧 **Email:** [michaelanazodo2024@gmail.com](mailto:michaelanazodo2024@gmail.com)
-
+<p align="center">
+  <a href="https://github.com/michael1342" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/michael-anazodo/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:michaelanazodo2024@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/>
+  </a>
+</p>
 ---
 
 ### ⚡ Fun Fact
