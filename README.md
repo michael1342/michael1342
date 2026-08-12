@@ -26,6 +26,7 @@ Currently, I'm building and improving applications involving **payments, wallets
 ---
 
 ## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,mysql,ts,nodejs,python,php,laravel,tailwindcss)](https://skillicons.dev)
 
 ### Languages
 
